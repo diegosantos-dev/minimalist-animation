@@ -6,6 +6,7 @@ Minimalist Animation - Gradient Text
 <a href="https://minimalist-animation.vercel.app" title="Demo aplication" target="_blank"> Demo </a>
 </h1> 
 
+<img align='right' src="https://i.imgur.com/rV4JrFh.gif" alt="image illustration of developer" width="400">
 
 ## Resources
 
